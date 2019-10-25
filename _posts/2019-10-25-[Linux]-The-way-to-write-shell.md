@@ -80,3 +80,6 @@ else
     echo 'updating chaincode is actived.'
 fi
 ```
+
+
+<!--more-->
