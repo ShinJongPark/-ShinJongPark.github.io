@@ -1,6 +1,6 @@
 ---
-title: Post with Header Image
-tags: TeXt
+title: [Linux] Shell 작성법
+tags: linux
 article_header:
   type: cover
   image:
