@@ -1,13 +1,11 @@
 ---
-title: [Linux] Shell 작성법
-tags: linux
+title: Post with Header Image
+tags: TeXt
 article_header:
   type: cover
   image:
     src: /screenshot.jpg
 ---
-
-
 
 ## Shell 파라미터 작성법
 
@@ -80,6 +78,5 @@ else
     echo 'updating chaincode is actived.'
 fi
 ```
-
 
 <!--more-->
