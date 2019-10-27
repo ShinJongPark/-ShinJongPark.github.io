@@ -9,7 +9,8 @@ article_header:
 ---
 
 
-### [ 자료구조 ] ArrayList vs LinkedList 시간복잡도
+# [ 자료구조 ] ArrayList vs LinkedList 시간복잡도
+
 
 
 
@@ -29,11 +30,16 @@ CPU의 부담을 줄 수 있습니다.
 
 
 
+
+
 ## LinkedList
+
 
 원소들이 메모리에 연속해 배치되어 있는 ArrayList 와는 달리, LinkedList는 자료의 주소값이 서로 연결되어 있는 구조를 가지고 있습니다.
 
 원소들의 주소값만 변경하여 삽입/삭제를 하기 때문에 이러한 작업이 빈번할 때 유용합니다.
+
+
 
 
 
@@ -53,7 +59,9 @@ CPU의 부담을 줄 수 있습니다.
 
 
 
+
 ## 결론
+
 
 리스트의 삽입/삭제가 빈번하다. 		==>		LinkedList
 
