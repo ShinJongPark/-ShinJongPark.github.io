@@ -9,8 +9,6 @@ article_header:
 ---
 
 
-# [ 자료구조 ] ArrayList vs LinkedList 시간복잡도
-
 
 
 
