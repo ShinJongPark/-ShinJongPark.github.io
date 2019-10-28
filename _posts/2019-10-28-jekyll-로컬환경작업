@@ -1,0 +1,87 @@
+---
+title: "[ jekyll ] 로컬환경 작업"
+tags: "jekyll"
+
+---
+
+
+
+Jekyll 기반의 Github 기술 블로그를 로컬환경에서 테스팅 하고자 합니다.
+
+
+
+
+
+## Jekyll
+
+
+
+일단 Jekyll은 티스토리나 네이버 블로그와 같은 DB를 사용하는 동적 웹페이지와 다르게 정적 웹페이지로 DB를 사용하지 않습니다.
+
+
+
+보통 마크다운, HTML 등의 마크업 언어로 글을 작성하면 미리 정의해놓은 다양한 레이아웃으로 포장하여 보여줄 수 있습니다.
+
+
+
+하지만 github에 익숙하지 않다면 포스트 업로드가 다소 번거롭다고 느낄 수 있습니다.
+
+
+
+또한 html/css, posts,config 등 commit / push 로 수정작업을 해야하기 때문에 작업하기 상당히 번거롭다고 느꼈습니다.
+
+
+
+
+
+
+
+## 로컬 환경에서 작업하기 ( Ruby 와 관련 패키지 필요 )
+
+
+
+로컬 환경에서 미리 수정한 후 한꺼번에 commit / push 한다면 작업이 한결 수월 해 질것입니다.
+
+
+
+
+
+윈도우에서 작업하기 위해서는 루비와 관련 패키지를 설치 해야합니다.
+
+
+
+루비 설치는 https://rubyinstaller.org/downloads/ 에서 환경에 맞는 설치합니다.
+
+정상적으로 설치가 되었다면 Ruby Prompt를 실행합니다.
+
+[![img](https://postfiles.pstatic.net/MjAxOTEwMTlfMTQ5/MDAxNTcxNDkyNzc0NDIw.eW8qcJASHVkJcbTAndoz6ivn0PuxXOJPgYPu7KtpQFYg.cJT7At7zjF6GZDRtGwOMIPFhpcWTat2gB0hzCpgj_XMg.PNG.qkrtlswhd/image.png?type=w966)](https://blog.naver.com/PostView.nhn?blogId=qkrtlswhd&logNo=221682770977&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=section&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1#)
+
+
+
+프롬트를 실행 한 후에 관련 Jekyll 과 관련 패키지를 설치 합니다.
+
+gem install jekyll gem install minima gem install bundler gem install jekyll-feed gem install tzinfo-data
+
+
+
+이후 github.io 레파지토리에서 다음과 같은 명령어로 실행합니다.
+
+jekyll serve
+
+만약 Bundler gemNotFonud 와 같은 에러가 발생시
+
+Bundle update를 해주면 해결됩니다.
+
+Bundle update
+
+jekyll 실행
+
+[![img](https://postfiles.pstatic.net/MjAxOTEwMTlfMzcg/MDAxNTcxNDkzMDgwNjM5.ZaRjfHK2-GB81Wsi3r0Q-7vuxyTXo-nDJ374ls73ZN8g.vlyhi-O3LAUyo1ybruM7ti8R0-zhyPf5Q5LO1jyEa2og.PNG.qkrtlswhd/image.png?type=w966)](https://blog.naver.com/PostView.nhn?blogId=qkrtlswhd&logNo=221682770977&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=section&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1#)
+
+
+
+
+
+현재 작업중인 기술 블로그
+
+[![img](https://postfiles.pstatic.net/MjAxOTEwMTlfMzYg/MDAxNTcxNDkzMTI0OTc3.CfrdDrADkKB1PBwWE4XskrcS2q2xx2fydw9TfJjkvFsg.2Gqs_DhIPenwkCgLVrgnP820FmxUC3oQj8l5BXcweikg.PNG.qkrtlswhd/image.png?type=w966)](https://blog.naver.com/PostView.nhn?blogId=qkrtlswhd&logNo=221682770977&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=section&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1#)
