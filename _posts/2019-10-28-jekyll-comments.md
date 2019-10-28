@@ -1,5 +1,5 @@
 ---
-title : " [ jekyll ] 포스트 댓글 추가 (with Facebook)"
+title : " [ jekyll ] 포스트 댓글 추가 ( disqus )"
 tag : "jekyll"
 ---
 
