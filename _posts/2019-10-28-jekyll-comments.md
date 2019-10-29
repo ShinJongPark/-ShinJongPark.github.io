@@ -19,13 +19,13 @@ Disqus를 활용하여 facebook, twiter와 같은 소셜 댓글을 추가합니�
 
 프로필에서 Settings 에 들어갑니다
 
-[![img](https://postfiles.pstatic.net/MjAxOTEwMTlfMTcw/MDAxNTcxNDk0ODMzMDEz.vUs5y4ItGNsu4sicBeqVyD3r2sZ9v1tRqHeI-GWKAwIg.xLuP9OKtIBlJxxdvqMXCKQCOh9owqtaZKMMljU_lLvsg.PNG.qkrtlswhd/image.png?type=w966)](https://blog.naver.com/PostView.nhn?blogId=qkrtlswhd&logNo=221682797228&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=section&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1#)
+![disqus_01](https://user-images.githubusercontent.com/46040293/67728138-72539d00-fa2f-11e9-8156-ae66743da3d3.png)
 
 <br>Account를 채워 주시고..
 
 우측에 'Add Disqus To Site' 에 들어가 줍니다.
 
-[![img](https://postfiles.pstatic.net/MjAxOTEwMTlfMTQg/MDAxNTcxNDk0OTMzNjYw.55dWYGEStwmJXet2ny_9KQUOnMHk2GE6zc4O1PPZTFsg.ZyxP54vLCh-E29Q-wUp4hwfIL36WBXw_eH3pjzHzeqgg.PNG.qkrtlswhd/image.png?type=w966)](https://blog.naver.com/PostView.nhn?blogId=qkrtlswhd&logNo=221682797228&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=section&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1#)
+![disqus_02](https://user-images.githubusercontent.com/46040293/67728139-741d6080-fa2f-11e9-8ad2-e97943fa6350.png)
 
 <br>
 
@@ -35,7 +35,7 @@ Disqus를 활용하여 facebook, twiter와 같은 소셜 댓글을 추가합니�
 
 <br>
 
-[![img](https://postfiles.pstatic.net/MjAxOTEwMTlfMjUg/MDAxNTcxNDk1MDIzMDMx.AKwZDZlemF197WA1Zi8Q-FTcf4ichwMF549PvU3_KsIg.-TqbyuFxOpQQP02u42ffA39L-tPbfRqxtrqH39q9-Hsg.PNG.qkrtlswhd/image.png?type=w966)](https://blog.naver.com/PostView.nhn?blogId=qkrtlswhd&logNo=221682797228&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=section&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1#)
+![disqus_03](https://user-images.githubusercontent.com/46040293/67728140-754e8d80-fa2f-11e9-83e6-3abfb15e48b1.png)
 
 <br>
 
@@ -48,8 +48,7 @@ Disqus를 활용하여 facebook, twiter와 같은 소셜 댓글을 추가합니�
 <br>
 
 또 좀 내리다보면 " ~ install manuall with Universal code " 가 보입니다.
-
-[![img](https://postfiles.pstatic.net/MjAxOTEwMTlfNDQg/MDAxNTcxNDk1MTgzOTgy.evswPzN2jJddOhmaQV7cYpGJoYVHzEy4YftUQ_dLVzQg.PBuVNz24E7hT85u7rnaIkLZtkJwhTVxNj8ueUJyzJg8g.PNG.qkrtlswhd/image.png?type=w966)](https://blog.naver.com/PostView.nhn?blogId=qkrtlswhd&logNo=221682797228&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=section&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1#)
+![disqus_04](https://user-images.githubusercontent.com/46040293/67728142-75e72400-fa2f-11e9-9483-31a52cfb1f41.png)
 
 '클릭'
 
@@ -57,7 +56,7 @@ Disqus를 활용하여 facebook, twiter와 같은 소셜 댓글을 추가합니�
 
 <br>
 
-[![img](https://postfiles.pstatic.net/MjAxOTEwMTlfNDIg/MDAxNTcxNDk1Mjg0MzIy.R_kDWFRV7Ki13OsYToNA3kAtRqDA1uQ86i-8Wfkj3kYg.6CkRoT-xfPh7Mpfd5LeEzbhKxVRpBd5bOEl6Hv4SM6Ig.PNG.qkrtlswhd/image.png?type=w966)](https://blog.naver.com/PostView.nhn?blogId=qkrtlswhd&logNo=221682797228&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=section&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1#)
+![disqus_06](https://user-images.githubusercontent.com/46040293/67728144-77185100-fa2f-11e9-9604-b285367ccf38.png)
 
 <br>
 
@@ -69,7 +68,7 @@ Disqus를 활용하여 facebook, twiter와 같은 소셜 댓글을 추가합니�
 
 <br>
 
-[![img](https://postfiles.pstatic.net/MjAxOTEwMTlfMTcg/MDAxNTcxNDk1MzY4NDI3.kQjysBBg4xPWRYi1z58J_gce69pcvtF4hihX-YpbEMEg.egTx8mlQaGA1PXjWAJdiyiFUJE4MrdEnsupgmHxzV0Mg.PNG.qkrtlswhd/image.png?type=w966)](https://blog.naver.com/PostView.nhn?blogId=qkrtlswhd&logNo=221682797228&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=section&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1#)
+![disqus_07](https://user-images.githubusercontent.com/46040293/67728146-797aab00-fa2f-11e9-99ef-9606d7f78291.png)
 
 <br>
 
@@ -87,7 +86,7 @@ Disqus를 활용하여 facebook, twiter와 같은 소셜 댓글을 추가합니�
 
 <br>
 
-[![img](https://postfiles.pstatic.net/MjAxOTEwMTlfMjkx/MDAxNTcxNDk1NDI5Njky.E0UKv7GYwLzGqZXZ6p4ujlKV_WKhpnBvhHt1VZN43DYg.BjO-RxZwuEngqw-Dl6VeFZXVptJE0SWu4NrexS_COaUg.PNG.qkrtlswhd/image.png?type=w966)](https://blog.naver.com/PostView.nhn?blogId=qkrtlswhd&logNo=221682797228&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=section&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1#)
+![disqus_08](https://user-images.githubusercontent.com/46040293/67728147-7a134180-fa2f-11e9-9e20-f24298c0a4ba.png)
 
 생성된 코드에 붙여넣어주기만 하면 됩니다.
 
