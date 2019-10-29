@@ -129,9 +129,9 @@ comments:
   gitalk:
     clientID    : e1f7122f4a2015afea61 # GitHub Application Client ID
     clientSecret: 77b07b3fc12d95baf757dd2a52758749afa885ae # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : shinjongpark  # GitHub repo owner
-    admin: shinjongpark # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+    repository  : ShinJongPark.github.io # GitHub repo
+    owner       : ShinJongPark  # GitHub repo owner
+    admin: ShinJongPark # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
 
   ## Valine
