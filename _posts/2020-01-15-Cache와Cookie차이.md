@@ -1,7 +1,8 @@
 ---
-title:"Cache 와 Cookie 차이"
+title: "Cache 와 Cookie 차이"
 tags: "etc"
 ---
+
 
 
 쿠키와 캐시 차이입니다.
