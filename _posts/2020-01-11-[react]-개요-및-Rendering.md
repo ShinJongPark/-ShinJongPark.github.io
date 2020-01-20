@@ -1,5 +1,5 @@
 ---
-title: "[React] 개요 및 Rendering"
+title: "[React] 1. 개요 및 맛보기"
 tags: "react"
 ---
 
