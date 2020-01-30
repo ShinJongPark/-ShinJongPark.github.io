@@ -1,9 +1,10 @@
 ---
-title: "[React] 1. 개요 및 맛보기"
+title: "[React] 1. 개요 및 렌더링"
 tags: "react"
+
 ---
 
-### 1. 개요
+## 1. 개요
 
 + React는 Facebook에서 제공해주는 Front-End Library 입니다.
 + React는 Component 기반으로 되어있어 Component에 데이터를 내려주면 개발자가 설계한대로 UI가 만들어져 사용자에게 보여집니다.
@@ -49,7 +50,7 @@ tags: "react"
 
 <br>
 
-### 2. JSX
+## 2. JSX
 
 JSX는 자바스크립트의 확장 문법이며, XML과 매우 흡사합니다.
 
@@ -156,7 +157,7 @@ React는 이러한 객체를 읽은 후 DOM을 구성하고 최신으로 유지�
 
 <br/>
 
-### 3. DOM에 엘리먼트 렌더링하기
+## 3. DOM에 엘리먼트 렌더링하기
 
 ```html
 <div id="root"></div>
@@ -234,7 +235,7 @@ React 개발 환경 구축을 위해 개념들을 하나씩 보도록 하겠습�
 
 <br>
 
-### 4. 번들러란 ? ( Bundler )
+## 4. 번들러란 ? ( Bundler )
 
 번들러(Bundler)란 **묶는다**는 뜻의 **Bundle**에서 나타난 말인데요.
 
@@ -254,7 +255,7 @@ React 개발 환경 구축을 위해 개념들을 하나씩 보도록 하겠습�
 
 <br>
 
-### 5. Loader
+## 5. Loader
 
 ```react
 import logo from './logo.svg';
