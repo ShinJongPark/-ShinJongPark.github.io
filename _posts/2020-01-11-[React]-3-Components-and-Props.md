@@ -1,5 +1,5 @@
 ---
-title: "[React] Components and Props"
+title: "[React] 3. Components and Props"
 tags: "react"
 ---
 
