@@ -73,7 +73,9 @@ $ systemctl status nginx
 
 ![img](https://user-images.githubusercontent.com/46040293/74617593-4cced880-5171-11ea-846f-81684765b7c4.png)
 
-## **6) 배포완료 ( SSL 적용 이전 )**
+<br>
+
+### 6) 배포완료 ( SSL 적용 이전 )
 
 ![img](https://user-images.githubusercontent.com/46040293/74617606-5c4e2180-5171-11ea-833b-d73ce97a1f22.png)
 
