@@ -23,11 +23,11 @@ sudo apt-get install nginx
 
 $ cd /etc/nginx/sites-availables/
 
-**![img](../assets/images/aws/image1.png)**
+**![img](https://user-images.githubusercontent.com/46040293/74617570-3294fa80-5171-11ea-8426-cc966326dbf4.png)**
 
 다음과 같이 수정합니다
 
-![img](../assets/images/aws/image2.png)
+![img](https://user-images.githubusercontent.com/46040293/74617585-43de0700-5171-11ea-8dc7-cdf94e3962e6.png)
 
 <br>
 
@@ -71,11 +71,11 @@ $ systemctl status nginx
 
 
 
-![img](../assets/images/aws/image3.png)
+![img](https://user-images.githubusercontent.com/46040293/74617593-4cced880-5171-11ea-846f-81684765b7c4.png)
 
 ## **6) 배포완료 ( SSL 적용 이전 )**
 
-![img](../assets/images/aws/image4.png)
+![img](https://user-images.githubusercontent.com/46040293/74617606-5c4e2180-5171-11ea-833b-d73ce97a1f22.png)
 
 <br>
 
@@ -101,7 +101,7 @@ $ sudo systemctl stop nginx
 
 \> 80포트 사용중이면 에러
 
-![img](../assets/images/aws/image5.png)
+![img](https://user-images.githubusercontent.com/46040293/74617607-5d7f4e80-5171-11ea-83c0-88d25222165c.png)
 
 <br>
 
@@ -114,13 +114,13 @@ ex)$ sudo letsencrypt certonly --standalone -d i02ast5.p.ssafy.io
 
 정상적으로 발급되었다면 다음과 같은 축하글과 인증서 키값들을 얻을 수 있다.
 
-![img](../assets/images/aws/image6.png)
+![img](https://user-images.githubusercontent.com/46040293/74617608-5e17e500-5171-11ea-9b14-aac6818530d1.png)
 
 <br>
 
 ### 4) nginx 설정파일 수정
 
-![img](../assets/images/aws/image7.png)
+![img](https://user-images.githubusercontent.com/46040293/74617609-5e17e500-5171-11ea-9cf6-5f00b628007d.png)
 
 ① 80포트로 진입했을 때 443포트로 리다이렉트 시켜줍니다.
 
@@ -142,6 +142,6 @@ $ sudo systemctl start nginx
 
 ### 6) 실행결과
 
-![img](../assets/images/aws/image8.png)
+![img](https://user-images.githubusercontent.com/46040293/74617610-5eb07b80-5171-11ea-8dc6-65b9cc67bbd8.png)
 
-![img](../assets/images/aws/image9.png)
+![img](https://user-images.githubusercontent.com/46040293/74617603-5bb58b00-5171-11ea-96fd-314b5517f8a1.png)
