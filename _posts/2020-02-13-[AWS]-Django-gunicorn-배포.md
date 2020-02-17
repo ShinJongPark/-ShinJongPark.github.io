@@ -81,3 +81,15 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
 
 ### 마이그레이션
 
+작성중...
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
