@@ -14,9 +14,9 @@ tag: "aws"
 **nginx 설치**
 
 ```shell
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install nginx
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install nginx
 ```
 
 ### 2) conf 파일 설정
@@ -109,7 +109,7 @@ $ sudo systemctl stop nginx
 
 ### 3) 인증서 발급
 
-```
+```shell
 $ sudo letsencrypt certonly --standalone -d [도메인 네임]
 ex)$ sudo letsencrypt certonly --standalone -d i02ast5.p.ssafy.io
 ```
@@ -136,7 +136,7 @@ ex)$ sudo letsencrypt certonly --standalone -d i02ast5.p.ssafy.io
 
 ### 5) nginx 가동
 
-```
+```shell
 $ sudo systemctl start nginx
 ```
 
