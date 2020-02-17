@@ -46,7 +46,7 @@ $ cd /var/www/html/
 **nginx 실행**
 
 ```shell
-$ sudoservice nginx start     #(restart/reload/stop/force-reload)
+$ sudo service nginx start     #(restart/reload/stop/force-reload)
 ```
 
 
@@ -54,7 +54,7 @@ $ sudoservice nginx start     #(restart/reload/stop/force-reload)
 **이미 실행중이라면 restart**
 
 ```shell
-$ sudoservice nginx restart   #(restart/reload/stop/force-reload)
+$ sudo service nginx restart   #(restart/reload/stop/force-reload)
 ```
 
 <br>
