@@ -29,6 +29,8 @@ Spring.devtools.livereload.enabled=true
 
 <br>
 
+<br>
+
 ## Root-Path 설정
 
 ##### application.properties
@@ -36,4 +38,42 @@ Spring.devtools.livereload.enabled=true
 ```
 server.servlet.context-path=/api
 ```
+
+<br><br>
+
+## Swagger2
+
+
+
+<br>
+
+<br>
+
+## 이미지 절대 경로 지정
+
+<br>
+
+<br>
+
+## Naming
+
+
+
+<br><br>
+
+## Multiple Database
+
+한 프로젝트에 두개의 데이터베이스 연결하기
+
+<br>
+
+<br>
+
+## Domain Mapping
+
+
+
+
+
+
 

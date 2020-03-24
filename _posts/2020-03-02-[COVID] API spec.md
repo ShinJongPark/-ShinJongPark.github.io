@@ -3,11 +3,9 @@ title: "[COVID] api spec"
 tag: "project"
 ---
 
-## 회원 관련 API
+## Rule
 
-### 0. Rule
-
-#### 0.1 common status
+#### common status
 
 > success : 200 ( Success )
 >
@@ -17,24 +15,26 @@ tag: "project"
 
 <br>
 
+## 회원 관련 API
+
 <br>
 
 ### 1.로그인 인증
 
-#### 0) uri
+#### 1) uri
 
 ```
 POST: ~/authenticate
 ```
 
-#### 1) request
+#### 2) request
 
 ```
 email : (string)
 password : (string)
 ```
 
-#### 2) response
+#### 3) response
 
 200
 
@@ -93,19 +93,19 @@ message : (string)
 
 ### 3. 이메일 중복체크
 
-#### 0) uri
+#### 1) uri
 
 ```
 POST: ~/validate/email
 ```
 
-#### 1) request
+#### 2) request
 
 ```
 email : (string)
 ```
 
-#### 2) response
+#### 3) response
 
 200
 
@@ -123,3 +123,44 @@ message : (string)
 ```
 
 <br>
+
+<br>
+
+## 그룹 관련 API
+
+<br>
+
+### 1. 그룹 선택
+
+#### 1) uri
+
+```
+Get: ~/groups/{group_id}
+```
+
+#### 2) request
+
+```
+group_id: (Long)
+```
+
+#### 3) response
+
+200
+
+```
+#response.data
+groupInfo: (object)
+notices: (Array<object>)
+surveys: (Array<object>)
+```
+
+202
+
+```
+#response.data
+message : (string)
+```
+
+<br>
+
