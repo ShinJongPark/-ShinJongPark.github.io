@@ -1,3 +1,10 @@
+---
+title: "[SpringBoot] Intecepter - 작성중"
+tag: "SpringBoot"
+---
+
+
+
 ## Filter 와 Interceptor 비교
 
 필터는 DispatcherServlet 앞에서 먼저 동작하며, 인터셉터는 DispatcherServlet에서 Controller(Handler) 사이에서 동작한다.
@@ -24,3 +31,5 @@
 ### Interceptor
 
 기본 인터페이스는 `HandlerInterceptor`  이고, 추상클래스인 `HandlerInterceptorAdapter`를 다음과 같이 구현한다.
+
+<br><br><br>
