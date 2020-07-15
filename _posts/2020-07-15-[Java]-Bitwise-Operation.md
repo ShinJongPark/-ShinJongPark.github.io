@@ -11,11 +11,11 @@ Bitwise operation is performed by splitting data into bits. For data, only data 
 
 and Bitwise operation include **bitwise shift operators** and **bitwise logical operator** depending on the function.
 
+<br>
 
+<br>
 
 비트 연산자는 데이터를 비트 단위로 쪼개어 연산합니다. 데이터는 0 과 1로 표현할 수 있는 데이터만을 연산할 수 있습니다. 비트 연산은 기능에 따라서 **비트 이동 연산자** 와 **비트 논리 연산자**로 나뉩니다.
-
-
 
 
 
@@ -49,6 +49,8 @@ and Bitwise operation include **bitwise shift operators** and **bitwise logical 
 <br>
 
 ## 비트 논리 연산자 ( Bitwise Logical Operator )
+
+<br>
 
 - Bitwise OR ( | )
   - **논리합** 이라고 하며, 2진수로 표현된 비트중 1의 갯수가 1개 이상일 때 1을 리턴합니다
