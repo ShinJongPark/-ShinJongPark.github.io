@@ -52,6 +52,8 @@ and Bitwise operation include **bitwise shift operators** and **bitwise logical 
 
 <br>
 
+- test
+
 - Bitwise OR ( | )
   - **논리합** 이라고 하며, 2진수로 표현된 비트중 1의 갯수가 1개 이상일 때 1을 리턴합니다
   - 3 | 13 == 15
