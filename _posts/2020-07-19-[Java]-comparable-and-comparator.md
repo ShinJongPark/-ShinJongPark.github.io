@@ -1,6 +1,6 @@
 ---
 title : "[Java] Comparable and Comparator"
-Tags : "java"
+tags : "java"
 ---
 
 

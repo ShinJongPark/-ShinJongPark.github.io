@@ -1,6 +1,6 @@
 ---
 title : "[Java] Bitwise Operators"
-Tags : "java"
+tags : "java"
 ---
 
 
