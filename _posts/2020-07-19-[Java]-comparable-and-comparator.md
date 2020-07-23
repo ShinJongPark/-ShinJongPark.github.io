@@ -1,6 +1,7 @@
 ---
 title : "[Java] Comparable and Comparator"
 tags : "java"
+author : "박신종"
 ---
 
 
