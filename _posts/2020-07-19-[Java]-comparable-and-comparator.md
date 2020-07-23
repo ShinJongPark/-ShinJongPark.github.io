@@ -7,6 +7,10 @@ article_header:
   theme: dark
   background_color: '#123'
   background_image: false
+aside:
+  toc: true
+sidebar:
+  nav: layouts
 ---
 
 We can change the position of an obejct with a `Comparable` and `Comparator`   in Java.
