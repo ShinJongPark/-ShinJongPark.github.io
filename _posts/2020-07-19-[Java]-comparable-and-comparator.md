@@ -1,5 +1,4 @@
 
-We can change the position of an obejct with a `Comparable` and `Comparator`   in Java.
 ---
 title : "[Java] Comparable and Comparator"
 tags : "java"
@@ -10,6 +9,9 @@ article_header:
   background_color: '#123'
   background_image: false
 ---
+
+
+We can change the position of an obejct with a `Comparable` and `Comparator`   in Java.
 <br>
 
 <br>
