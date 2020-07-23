@@ -16,7 +16,7 @@ sidebar:
 We can change the position of an obejct with a `Comparable` and `Comparator`   in Java.
 
 <br>
-
+##
 <br>
 
 우리는 Comparable 과 Comparator 을 이용하여 Java 객체를 정렬할 수 있습니다.
