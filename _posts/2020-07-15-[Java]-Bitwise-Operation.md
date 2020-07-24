@@ -1,7 +1,7 @@
 ---
 title : "[Java] Bitwise Operators"
 author : ""
-tags : "java"
+tags : "Java"
 article_header:
   type: overlay
   theme: dark

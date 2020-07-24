@@ -1,6 +1,12 @@
 ---
 title: "[Spring] DI 와 IoC Container"
 tag: "Spring"
+author : ""
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image: false
 ---
 
 

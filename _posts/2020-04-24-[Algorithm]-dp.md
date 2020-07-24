@@ -1,3 +1,16 @@
+---
+title: "[자료구조] DP ( Dynamic Programming )"
+tag: "DataStructure"
+author : ""
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image: false
+---
+
+
+
 ## DP( Dynamic Programming )
 
 - Top down 방식

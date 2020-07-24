@@ -5,7 +5,8 @@
     margin-top: map-get($spacers, 4);
   }
   header, h1 {
-    display: inline;
+    display: block;
+    text-align: center;
   }
   h1 {
     word-wrap: break-word;
@@ -15,6 +16,7 @@
   }
   .edit-on-github {
     text-decoration: none !important;
+    float: right;
   }
 }
 

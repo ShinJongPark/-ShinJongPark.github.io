@@ -1,6 +1,12 @@
 ---
 title: "[Python3] Numpy "
-tag: "python"
+tag: "Python"
+author : ""
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image: false
 ---
 
 

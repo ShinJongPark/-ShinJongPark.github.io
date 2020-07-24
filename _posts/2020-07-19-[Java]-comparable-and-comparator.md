@@ -2,7 +2,7 @@
 layout : article
 title : "[Java] Comparable and Comparator"
 author : ""
-tags : "java"
+tags : "Java"
 article_header:
   type: overlay
   theme: dark
@@ -10,7 +10,6 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/logo/background_Java.jpg
-
 ---
 <br/>
 We can change the position of an obejct with a `Comparable` and `Comparator`   in Java.

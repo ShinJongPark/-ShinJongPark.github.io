@@ -1,6 +1,12 @@
 ---
 title : "[ jekyll ] 포스트 댓글 추가 ( disqus )"
-tag : "jekyll"
+tag : "Jekyll"
+author : ""
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image: false
 ---
 
 Disqus를 활용하여 facebook, twiter와 같은 소셜 댓글을 추가합니다.

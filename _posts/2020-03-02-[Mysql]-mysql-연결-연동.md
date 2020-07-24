@@ -1,8 +1,13 @@
 ---
 title: "[MySql] AWS Mysql 설치 및 원격접속"
-tags: "mysql"
+tags: "Mysql"
+author : ""
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image: false
 ---
-
 <br>
 
 #### 1. Mysql 설치

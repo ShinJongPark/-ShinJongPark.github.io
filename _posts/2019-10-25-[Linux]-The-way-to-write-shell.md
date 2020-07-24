@@ -1,6 +1,6 @@
 ---
 title: "[Linux] Shell 작성법"
-tags: linux
+tags: "Linux"
 article_header:
   type: cover
   image:

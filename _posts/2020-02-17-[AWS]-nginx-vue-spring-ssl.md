@@ -1,8 +1,13 @@
 ---
 title: "AWS(Ubuntu 18.04.1 LTS)에 Nginx + Vue.js + Spring Boot 배포하기 with SSL"
-tag: "aws"
+tag: "AWS"
+author : ""
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image: false
 ---
-
 
 
 
