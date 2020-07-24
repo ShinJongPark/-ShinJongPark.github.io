@@ -1,24 +1,21 @@
 ---
+layout : article
 title : "[Java] Comparable and Comparator"
+author : ""
 tags : "java"
-author : 박신종
 article_header:
   type: overlay
   theme: dark
   background_color: '#123'
-  background_image: false
-aside:
-  toc: true
-sidebar:
-  nav: layouts
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/logo/background_Java.jpg
 ---
-
+<br/>
 We can change the position of an obejct with a `Comparable` and `Comparator`   in Java.
-
-<br>
-
-
-<br>
+<br/>
+<br/>
+우리는 Comparable 과 Comparator 을 이용하여 Java 객체를 정렬할 수 있습니다.
 
 ## Interface Comparable
 
