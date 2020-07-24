@@ -1,6 +1,14 @@
 ---
 title : "[Java] Bitwise Operators"
+author : ""
 tags : "java"
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/logo/background_Java.jpg
 ---
 
 
