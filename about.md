@@ -27,7 +27,7 @@ key: page-about
 ---
 
 <p align="center">
-  <img src="/assets/images/profile/Me2.jpg"/>
+  <img src="/assets/images/profile/Me3.JPG"/>
 </p>
 <!-- ![Me](/assets/images/profile/Me2.jpg){: text-align: center;} -->
 
