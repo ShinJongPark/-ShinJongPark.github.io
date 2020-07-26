@@ -29,32 +29,35 @@ key: page-about
 <p align="center">
   <img src="/assets/images/profile/Me3.JPG"/>
 </p>
-<!-- ![Me](/assets/images/profile/Me2.jpg){: text-align: center;} -->
 
-BackEnd, Blockchain 학습중
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+### <center> 어제보다 0.1% 라도 성장하기 <center>
 
-## Features
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+## Experience
+- 2020.01 ~ 2020.07 SSAFY 대전 2기 교육생 실습코치
+- 2019.08 ~ 2019.10 4차산업기술 프로젝트 대전지역 1등(블록체인기반 중고차 거래서비스)
+- 2019.07 ~ 2019.08 대전 웹/모바일 프로젝트 대전지역 1등(여행 스케쥴링 서비스)
+- 2018.12 ~ 2019.12 SSAFY 대전 1기 교육 수료
+- 2018.04 ~ 2018.10 유통관련 Blockchain 프로젝트 개발
+- 2017.06 ~ 2017.09 3개월 해외봉사 자원 ( Mission Building )
+- 2016.06 ~ 2016.12 KUCIS(대학정보보호동아리) 활동 In KISA
+
+## Tags
+- Java
+- Python
+- Spring Boot
+- Blockchain
+- golang
+- Vue.js
+
+## Interesting
+- English
+- Cooking
+- Traveling
+- Drum
+- work out
+- etc
 
 ## Skins
 
