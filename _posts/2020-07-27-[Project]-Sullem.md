@@ -6,7 +6,9 @@ article_header:
  type: overlay
  theme: dark
  background_color: '#123'
- background_image: false
+ background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/projects/sullem/logo_sullem.PNG
 ---
 
 
@@ -72,40 +74,21 @@ article_header:
 
 ### > Images
 
-
-
 ![main](/assets/images/projects/sullem/intro.PNG)
-
-
 
 ![main](/assets/images/projects/sullem/main.png)
 
-
-
 ![main](/assets/images/projects/sullem/scheduling.PNG)
-
-
 
 ![main](/assets/images/projects/sullem/path.PNG)
 
-
-
 ![main](/assets/images/projects/sullem/read_schedule.PNG)
-
-
 
 ![main](/assets/images/projects/sullem/read_schedule2.PNG)
 
-
-
 ![main](/assets/images/projects/sullem/read_schedule3.PNG)
 
-
-
 ![main](/assets/images/projects/sullem/write_mobile.png)
-
-
-
 
 ![main](/assets/images/projects/sullem/read_mobile.png)
 

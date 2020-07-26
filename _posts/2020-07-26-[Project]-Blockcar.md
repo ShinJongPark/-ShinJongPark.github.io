@@ -6,7 +6,9 @@ article_header:
  type: overlay
  theme: dark
  background_color: '#123'
- background_image: false
+ background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/projects/blockcar/logo_blockcar.PNG
 ---
 
 
