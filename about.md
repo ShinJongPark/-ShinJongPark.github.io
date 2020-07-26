@@ -27,7 +27,7 @@ key: page-about
 ---
 
 <p align="center">
-  <img src="/assets/images/profile/Me3.JPG"/>
+  <img style="max-width: 60%;" src="/assets/images/profile/Me3.JPG"/>
 </p>
 
 
@@ -58,6 +58,5 @@ key: page-about
 - work out
 - etc
 
-</br>
-</br>
-</br>
+## address
+- qkrtlswhd@naver.com
