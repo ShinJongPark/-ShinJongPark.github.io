@@ -74,7 +74,7 @@ article_header:
 
 
 
-![main](/assets/images/projects/sullem/intro.png)
+![main](/assets/images/projects/sullem/intro.PNG)
 
 
 
@@ -82,23 +82,23 @@ article_header:
 
 
 
-![main](/assets/images/projects/sullem/scheduling.png)
+![main](/assets/images/projects/sullem/scheduling.PNG)
 
 
 
-![main](/assets/images/projects/sullem/path.png)
+![main](/assets/images/projects/sullem/path.PNG)
 
 
 
-![main](/assets/images/projects/sullem/read_schedule.png)
+![main](/assets/images/projects/sullem/read_schedule.PNG)
 
 
 
-![main](/assets/images/projects/sullem/read_schedule2.png)
+![main](/assets/images/projects/sullem/read_schedule2.PNG)
 
 
 
-![main](/assets/images/projects/sullem/read_schedule3.png)
+![main](/assets/images/projects/sullem/read_schedule3.PNG)
 
 
 
