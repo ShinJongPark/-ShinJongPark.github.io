@@ -1,5 +1,5 @@
 ---
-title: "MacOS backquote(`) 설정하기"
+title: "[MacOS] backquote(`) 설정하기"
 tag: "etc"
 author : ""
 article_header:
