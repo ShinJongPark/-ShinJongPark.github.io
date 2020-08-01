@@ -42,7 +42,7 @@ article_header:
 
 ### > Skills
 
-`React` `Spring Boot` `JPA` `MySql` `Hyperledger Fabric` `Javascript` `aws es2` `Gitlab` `Jira`
+`React` `Spring Boot` `JPA` `MySql` `Hyperledger Fabric` `Javascript` `NginX`  `aws es2` `Gitlab` `Jira`
 
 
 ### > URI

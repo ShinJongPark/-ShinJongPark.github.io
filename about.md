@@ -33,8 +33,10 @@ key: page-about
 
 ### <center> 어제보다 0.1% 라도 성장하기 <center>
 
-
 ## Experience
+
+- 2020.04 ~ 2020.07 코로나19 사내 프로젝트
+
 - 2020.01 ~ 2020.07 SSAFY 대전 2기 교육생 실습코치
 - 2019.08 ~ 2019.10 [4차산업기술 프로젝트 대전지역 1등(블록체인기반 중고차 거래서비스)](http://shinjongpark.github.io/2020/07/26/Project-Blockcar.html)
 - 2019.07 ~ 2019.08 [웹/모바일 프로젝트 대전지역 1등(여행 스케쥴링 서비스)](http://shinjongpark.github.io/2020/07/27/Project-Sullem.html)
