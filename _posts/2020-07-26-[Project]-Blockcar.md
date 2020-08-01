@@ -72,13 +72,9 @@ Fabric 블록체인에 저장된 데이터를 바탕으로 중고차를 거래�
 
 ### > Skills
 
-<<<<<<< HEAD
-`React` `Spring Boot` `JPA` `MySql` `Hyperledger Fabric` `Javascript` `NginX`  `aws es2` `Gitlab` `Jira`
-=======
-`React` `Spring Boot` `JPA` `MySql`  `Hyperledger Fabric`  `sdk`   `Javascript` `AWS ES2` `Gitlab` `Jira`
+`React` `Spring Boot` `JPA` `MySql`  `Hyperledger Fabric`  `sdk`  `NginX`   `Javascript` `AWS ES2` `Gitlab` `Jira`
 
 <br>
->>>>>>> 80e9d7b1a0a7de46b07f6965ee2f11ffcb206d5a
 
 
 ### > URI
