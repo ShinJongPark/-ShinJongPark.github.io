@@ -15,7 +15,7 @@ article_header:
 
 ## > 개요
 
-<img src="/assets/images/posts/data_structure/stack/stack1.png" alt="stack1" style="zoom:30%; float:left;" />
+<img src="/assets/images/posts/data_structure/stack/stack1.png" alt="stack1" style="zoom:40%;" />
 
 
 
@@ -33,7 +33,7 @@ article_header:
 
 ## > 사용법
 
-<img src="/assets/images/posts/data_structure/stack/stack2.png" alt="stack2" style="zoom:30%; float:left; " />
+<img src="/assets/images/posts/data_structure/stack/stack2.png" alt="stack2" style="zoom:40%; " />
 
 #### - 연산
 
@@ -123,6 +123,8 @@ public class Stack {
 -1
 */
 ```
+
+<br>
 
 ### - 연결리스트(LinkedList) 구현
 
