@@ -17,13 +17,9 @@ article_header:
 
 <img src="/assets/images/posts/data_structure/stack/stack1.png" alt="stack1" style="zoom:40%;" />
 
-
-
 - '쌓다' 라는 사전적 의미
 - 후입선출 ( LIFO: Last In First Out )
-
 - 가장 최근에 스택에 추가한 데이터가 먼저 제거됩니다.
-
 - 활용 사례
   - 웹 브라우저 - 뒤로가기
   - 실행 취소 ( undo )
@@ -35,7 +31,7 @@ article_header:
 
 <img src="/assets/images/posts/data_structure/stack/stack2.png" alt="stack2" style="zoom:40%; " />
 
-#### - 연산
+## > 연산
 
 - 삽입 - Push(item)
   - 새로운 데이터를 스택(Stack)에 삽입한다.
@@ -46,6 +42,8 @@ article_header:
 - 읽기 - Peek()
   - 스택(Stack)에서 Top이 가르키고 있는 데이터를 읽는다.
   - Top 값의 변화 없음.
+
+<br>
 
 ## > 구현
 
@@ -75,22 +73,22 @@ public class Stack {
 		stack = new Object[maxSize];
 	}
 	
-	public boolean empty() {
+	public boolean isEmpty() {
 		return (top == -1);
 	}
 	
-	public boolean full() {
+	public boolean isFull() {
 		return (top == maxSize -1);
 	}
 	
 	public void push(Object item) {
-		if(this.full())
+		if(this.isFull())
 			throw new ArrayIndexOutOfBoundsException();
 		stack[++top] = item;
 	}
 
 	public Object peek() {
-		if(this.empty())
+		if(this.isEmpty())
 			throw new ArrayIndexOutOfBoundsException();
 		return stack[top];
 	}
@@ -133,31 +131,32 @@ public class Stack<T extends Comparable<T>> {
     private Node head = null;
 
     private class Node {
-        T item;
-        Node next;
+      T item;
+      Node next;
     }
 
     public boolean isEmpty(){
-        return head==null;
+      return (head==null);
     }
 
     public void push(T item) {
-        Node oldHead = head;  
-        head = new Node();  
-        head.item = item;
-        head.next = oldHead;
+      Node oldHead = head;  
+      head = new Node();  
+      head.item = item;
+      head.next = oldHead;
     }
 
     public T pop() {
-        if(!isEmpty()){         
-            T item = head.item;
-            head = head.next;   
-            return item;
-        }
-        else {
-            System.out.println("Stack is empty.");
-            return null;
-        }
+    	T item = peek();
+    	head = head.next;
+    	return item;
+    }
+    
+    public T peek() {
+    	if(isEmpty()) {
+    		throw new NullPointerException();
+    	}
+    	return head.item;
     }
 }
 
