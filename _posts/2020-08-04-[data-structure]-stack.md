@@ -1,6 +1,6 @@
 ---
 title : "[자료구조] 스택(Stack) in Java"
-tags : "Java"
+tags : "자료구조"
 article_header:
   type: overlay
   theme: dark
@@ -8,7 +8,6 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/logo/background_Java.jpg
-
 ---
 
 <br>
@@ -31,7 +30,7 @@ article_header:
 
 <img src="/assets/images/posts/data_structure/stack/stack2.png" alt="stack2" style="zoom:40%; " />
 
-## > 연산
+#### - 연산
 
 - 삽입 - Push(item)
   - 새로운 데이터를 스택(Stack)에 삽입한다.

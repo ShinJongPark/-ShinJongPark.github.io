@@ -1,6 +1,18 @@
+---
+title : "[자료구조] 큐(Queue) in Java"
+tags : "자료구조"
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/logo/background_Java.jpg
+---
+
 ## > 개요
 
-<img src="/Users/shinjongpark/Library/Application Support/typora-user-images/image-20200805000830359.png" alt="image-20200805000830359" style="zoom:50%;" />
+<img src="/assets/images/posts/data_structure/queue/queue1.png" alt="image-queue" style="zoom:50%;" />
 
 - '차례를 기다리는 열' 이라는 사전적 의미.
 - 선입선출 ( FIFO : First In First Out )
@@ -15,7 +27,7 @@
 
 ## > 사용법
 
-<img src="/Users/shinjongpark/Library/Application Support/typora-user-images/image-20200805000302625.png" alt="image-20200805000302625" style="zoom:50%;" />
+<img src="/assets/images/posts/data_structure/queue/queue2.png" alt="image-queue" style="zoom:50%;" />
 
 ### - 연산
 
