@@ -58,6 +58,3 @@ key: page-about
 - Drum
 - work out
 - etc
-
-## address
-- qkrtlswhd@naver.com
