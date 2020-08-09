@@ -33,6 +33,8 @@ key: page-about
 
 ### <center> 어제보다 0.1% 라도 성장하기 <center>
 
+<br>
+
 ## Experience
 
 - 2020.04 ~ 2020.07 코로나19 사내 프로젝트
