@@ -59,7 +59,6 @@ key: page-about
 - Traveling
 - Drum
 - work out
-- etc
 
 
 
