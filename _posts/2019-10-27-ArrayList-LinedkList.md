@@ -1,6 +1,6 @@
 ---
 title: "[ 자료구조 ] ArrayList vs LinkedList 시간복잡도"
-tags: "DataStructure"
+tags: "자료구조"
 author : ""
 article_header:
   type: overlay
