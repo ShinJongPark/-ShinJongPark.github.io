@@ -1,6 +1,6 @@
 ---
-title: "[자료구조] DP ( Dynamic Programming )"
-tag: "DataStructure"
+title: "[알고리즘] DP ( Dynamic Programming )"
+tag: "algorithm"
 author : ""
 article_header:
   type: overlay
