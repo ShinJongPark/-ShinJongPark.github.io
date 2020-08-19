@@ -62,7 +62,7 @@ and Bitwise operation include **bitwise shift operators** and **bitwise logical 
 
 - **Bitwise OR (** **l )**
   - `논리합` 이라고 하며, 2진수로 표현된 비트중 1의 갯수가 1개 이상일 때 1을 리턴합니다.
-  - 3 | 13 == 15
+  - 3ㅣ13 == 15
   - 3 : 0000 0011
   - 13 : 0000 1101
   - 15 : 0000 1111
