@@ -65,37 +65,52 @@ article_header:
 <br>
 
 ### > Images
-
+#### - main
 ![img](/assets/images/projects/c19project/1.main.png)
 
+#### - main(mobile)
 ![img](/assets/images/projects/c19project/1.main_m.png)
 
+#### - layout
 ![img](/assets/images/projects/c19project/2.layout.png)
 
+#### - content option
 ![img](/assets/images/projects/c19project/2.option.png)
 
+#### - content - 코로나 현황판
 ![img](/assets/images/projects/c19project/3.content1.png)
 
+#### - content - 코로나 현황 막대 그래프
 ![img](/assets/images/projects/c19project/3.content2.png)
 
+#### - content - 코로나 현황 맵
 ![img](/assets/images/projects/c19project/3.content3.png)
 
+#### - content - 코로나 현황 표
 ![img](/assets/images/projects/c19project/3.content4.png)
 
+#### - content - 코로나 현황 타임라인
 ![img](/assets/images/projects/c19project/3.content5.png)
 
+#### - content - 코로나 확진자 맵 ( 동선 )
 ![img](/assets/images/projects/c19project/3.content6.png)
 
+#### - content - 코로나 선별 진료소
 ![img](/assets/images/projects/c19project/3.content7.png)
 
+#### - content - 공적 마스크 판매점
 ![img](/assets/images/projects/c19project/3.content8.png)
 
+#### - content - 도/시별 코로나 현황 사이트
 ![img](/assets/images/projects/c19project/3.content9.png)
 
+#### - content - 그룹 컨텐츠 - 체온 추이
 ![img](/assets/images/projects/c19project/4.group.png)
 
+#### - content - 그룹 공지사항/설문조사 
 ![img](/assets/images/projects/c19project/4.group2.png)
 
+#### - content - 그룹 설문조사
 ![img](/assets/images/projects/c19project/4.group3.png)
 
 
