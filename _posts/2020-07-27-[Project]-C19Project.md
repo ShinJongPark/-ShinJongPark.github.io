@@ -21,7 +21,7 @@ article_header:
 
 
 ### > Description
-- 프로젝트 명 : C19Project
+- 프로젝트 명 : C19Project (private)
 - 기간 : 2020.02 중 ~ 2020.03 중 ( 약 4주 )
 - 인원 : 10명 ( 7프론트, 1백엔드, 2데이터 )
 - 장소 : 비대면 온라인
@@ -58,24 +58,49 @@ article_header:
   - 운영서버 / 개발서버 분리
   - SSL 적용
 
+### <br>> Skills
 
+`Vue.js`  `Vuex`   `Spring Boot`  `JPA`  `MySql`  `DB Multiple`  `NginX`  `AWS ES2`  `Gitlab`   `Jira`
 
-
-
-
-### > Skills
-`Vue.js`  `Vuex`   `Spring Boot`  `JPA`  `MySql`  `NginX`  `AWS ES2`  `Gitlab`   `Jira`
-
-
-
-### > Review
-
-- 
-
-
-
+<br>
 
 ### > Images
+
+![img](/assets/images/projects/c19project/1.main.png)
+
+![img](/assets/images/projects/c19project/1.main_m.png)
+
+![img](/assets/images/projects/c19project/2.layout.png)
+
+![img](/assets/images/projects/c19project/2.option.png)
+
+![img](/assets/images/projects/c19project/3.content1.png)
+
+![img](/assets/images/projects/c19project/3.content2.png)
+
+![img](/assets/images/projects/c19project/3.content3.png)
+
+![img](/assets/images/projects/c19project/3.content3.png)
+
+![img](/assets/images/projects/c19project/3.content4.png)
+
+![img](/assets/images/projects/c19project/3.content5.png)
+
+![img](/assets/images/projects/c19project/3.content6.png)
+
+![img](/assets/images/projects/c19project/3.content7.png)
+
+![img](/assets/images/projects/c19project/3.content8.png)
+
+![img](/assets/images/projects/c19project/3.content9.png)
+
+![img](/assets/images/projects/c19project/4.group.png)
+
+![img](/assets/images/projects/c19project/4.group2.png)
+
+![img](/assets/images/projects/c19project/4.group3.png)
+
+
 
 <br>
 
