@@ -80,8 +80,6 @@ article_header:
 
 ![img](/assets/images/projects/c19project/3.content3.png)
 
-![img](/assets/images/projects/c19project/3.content3.png)
-
 ![img](/assets/images/projects/c19project/3.content4.png)
 
 ![img](/assets/images/projects/c19project/3.content5.png)
