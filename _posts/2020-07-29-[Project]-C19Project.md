@@ -16,6 +16,8 @@ article_header:
 
 # C19Project
 
+갑작스런 코로나 사태로 프로젝트를 시작하게 되었다. 
+
 
 
 ## > Description
@@ -64,6 +66,8 @@ article_header:
 `Vue.js`  `Vuex`   `Spring Boot`  `JPA`  `MySql`  `DB Multiple`  `NginX`  `AWS ES2`  `Gitlab`   `Jira`
 
 <br>
+
+
 
 ## > Images
 
