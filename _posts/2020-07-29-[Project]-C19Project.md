@@ -75,7 +75,7 @@ article_header:
 - branch 전략 : master - release - bugfix - develop - feature(기능단위)
 - 커밋메세지 :  `Add` `Fix` `Update` `Delete` 등의 간단한 키워드를 사용했으며, 사진에는 없지만 Jira와 연동하여 관련된 이슈에 연결하기 위한 이슈넘버를 기재하였다.
 
-<img src="/assets/images/projects/c19project/5.git-commit-history2.png" alt="image-queue" style="zoom:50%; float:left" />
+<img src="/assets/images/projects/c19project/5.git-commit-history2.PNG" alt="image-queue" style="zoom:50%; float:left" />
 
 ### - Jira
 
