@@ -16,7 +16,7 @@ article_header:
 
 # C19Project
 
-갑작스런 코로나 사태로 프로젝트를 시작하게 되었다. 
+
 
 
 
