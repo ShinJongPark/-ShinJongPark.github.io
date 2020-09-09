@@ -75,12 +75,16 @@ article_header:
 - branch 전략 : master - release - bugfix - develop - feature(기능단위)
 - 커밋메세지 :  `Add` `Fix` `Update` `Delete` 등의 간단한 키워드를 사용했으며, 사진에는 없지만 Jira와 연동하여 관련된 이슈에 연결하기 위한 이슈넘버를 기재하였다.
 
-<img src="/assets/images/projects/c19project/5.git-commit-history2.PNG" alt="image-queue" style="zoom:50%; float:left" />
+<img src="/assets/images/projects/c19project/5.git-commit-history2.PNG" alt="image-queue" style="zoom:50%;" />
+
+
 
 ### - Jira
 
 - 주차별 스프린트를 구성하고, 팀원들과 아침 스크럼 회의에 적극 활용 하였다.
 - 회의를 위해 무언가를 준비할 시간이 필요가 없으며, 이슈관리와 동시에 각 팀원의 진행척도를 체크할 수 있다.
+
+
 
 ### - SpringBoot
 
@@ -91,11 +95,15 @@ article_header:
   - 각 API마다 DTO를 만들어주었다. API가 늘어날수록 증가하는 DTO Class들이 보기에 좋지않았다.
   - 개인적으로 package를 사용하는 것 보다 Inner Class를 사용하는게 깔끔하고 보기에 좋았다.
 
+
+
 ### - Swagger
 
 - 백엔드 개발에 필수라고 생각한다.
 - 개발중, 프론트엔드 개발자와 의사소통시 각 api 스펙을 따로 만들필요가 없어 매우 편리하다.
 - 개발서버에는 포함시키되, 운영서버에는 필히 제외하고 배포하였다.
+
+
 
 ### - Server
 
@@ -104,6 +112,8 @@ article_header:
 - 개발서버에서 버그리포팅을 완료한 후, 프론트와 함께 완성된 빌드본을 운영서버에 동시에 배포한다.
 - WebServer는 로드밸런싱을 쉽게 경험할 수 있는 `Nginx`를 활용하였고,
 - 무료인증서를 발급받아 테스트 하였다.  `Letss Encrypt`
+
+
 
 ### - Database
 
@@ -116,13 +126,9 @@ article_header:
 - 둘째, 설문 항목에 대한 응답을 카테고리에 맞게 수집해야 함.
 - 글로 설명하기 복잡하지만, 간단하게, 설문항목은 Json형식, 응답은 설문항목의 개수만큼 카테고리별로 저장한다. 아래사진은 설문기능에 대한 부분 ERD이다.
 
-<img src="/assets/images/projects/c19project/6.erd-survey.png" alt="image-queue" style="zoom:70%; float:left" />
+<img src="/assets/images/projects/c19project/6.erd-survey.png" alt="image-queue" style="zoom:70%;" />
 
-<br/>
-
-<br/>
-
-
+<br>
 
 ## > Images
 
