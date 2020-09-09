@@ -86,10 +86,10 @@ article_header:
 
 - 생산성을 위한 JPA를 학습하면서 개발 하였다.
 - 개발하면서 난해했던 부분은 CamelCase와 SnakeCase를 함께 사용했다는 점이다.
-- DB컬럼명은 SnakeCase를 명시하고, JPA에서 Camelcase를 사용했기 때문에 Entity에서 DTO로 매핑할때 실수하는 부분이 조금 있었다.
+  - DB컬럼명은 SnakeCase를 명시하고, JPA에서 Camelcase를 사용했기 때문에 Entity에서 DTO로 매핑할때 실수하는 부분이 조금 있었다.
 - Inner Class 사용.
-- 각 API마다 DTO를 만들어주었다. API가 늘어날수록 증가하는 DTO Class들이 보기에 좋지않았다.
-- 개인적으로 package를 사용하는 것 보다 Inner Class를 사용하는게 깔끔하고 보기에 좋았다.
+  - 각 API마다 DTO를 만들어주었다. API가 늘어날수록 증가하는 DTO Class들이 보기에 좋지않았다.
+  - 개인적으로 package를 사용하는 것 보다 Inner Class를 사용하는게 깔끔하고 보기에 좋았다.
 
 ### - Swagger
 
@@ -118,9 +118,11 @@ article_header:
 
 <img src="/assets/images/projects/c19project/6.erd-survey.png" alt="image-queue" style="zoom:70%; float:left" />
 
-<br>
+<br/>
 
-<br>
+<br/>
+
+
 
 ## > Images
 
