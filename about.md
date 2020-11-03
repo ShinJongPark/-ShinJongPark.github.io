@@ -27,7 +27,7 @@ key: page-about
 ---
 
 <p align="center">
-  <img style="max-width: 60%;" src="/assets/images/profile/Me3.JPG"/>
+  <img style="max-width: 60%; border-radius: 2rem;" src="/assets/images/profile/Me3.JPG"/>
 </p>
 
 
