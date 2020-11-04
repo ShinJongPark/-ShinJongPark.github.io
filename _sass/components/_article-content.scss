@@ -48,6 +48,7 @@
     color: $text-color-l;
     @include split-line(left, 4px, $border-color);
     p {
+      font-size: initial;
       margin: map-get($spacers, 2) 0;
     }
     & > :last-child {
@@ -100,7 +101,7 @@
   }
   .highlighter-rouge > .highlight, figure.highlight {
     & > pre {
-      padding: map-get($spacers, 3) 0 map-get($spacers, 3) map-get($spacers, 3);
+      padding: map-get($spacers, 3) map-get($spacers, 3) map-get($spacers, 3) map-get($spacers, 3);
       margin: 0;
       background-color: $text-background-color;
       border-radius: map-get($base, border-radius);
