@@ -1,6 +1,7 @@
+```
 title: "[SpringBoot] 개발 꾸르팁 ( 작성중 )"
 tags: "springboot"
-
+```
 
 
 # Spring Boot properties
@@ -18,14 +19,16 @@ tags: "springboot"
     <optional>true</optional>
 </dependency>
 ```
+Eclipse 인경우 Project - Build Automatically 체크한다.
+저장할 때, java파일을 class파일로 자동저장한다.
+
 
 ##### application.properties
-
+다음 설정은 default가 true이기 때문에, 안해줘도 되지만, 자동리로드를 멈추고 싶다면 false로 설정해주면 된다.
 ```
 Spring.devtools.livereload.enabled=true
 ```
 
-Eclipse 인경우 Project - Build Automatically 체크.
 
 <br>
 
