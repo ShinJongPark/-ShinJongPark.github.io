@@ -1,5 +1,5 @@
 ---
-title : "[SpringBoot] 자동 리로드 ( livereload, auto reload ) "
+title : "[SpringBoot] 자동 리로드 ( Livereload, Auto Reload ) "
 author : ""
 tags : "springboot"
 article_header:
@@ -21,7 +21,7 @@ article_header:
 
 ### dependency
 
-```
+``` java
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-devtools</artifactId>
@@ -29,7 +29,8 @@ article_header:
 </dependency>
 ```
 
->  Eclipse 인경우 Project - Build Automatically 체크한다. 저장할 때, java파일을 class파일로 자동저장한다.
+>  Eclipse 인경우 Project - Build Automatically 체크한다. 
+>  저장할 때, java파일이 class파일로 자동저장된다.
 
 <br>
 
@@ -37,8 +38,8 @@ article_header:
 
 >  다음 설정은 default가 true이기 때문에, 안해줘도 되지만, 자동리로드를 멈추고 싶다면 false로 설정해주면 된다.
 
-```
-Spring.devtools.livereload.enabled=true
+``` java
+spring.devtools.livereload.enabled=true
 ```
 
 <br>
