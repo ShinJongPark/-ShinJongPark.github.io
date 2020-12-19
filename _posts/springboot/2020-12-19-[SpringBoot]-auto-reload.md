@@ -1,7 +1,7 @@
 ---
 title : "[SpringBoot] 자동 리로드 ( Livereload, Auto Reload ) "
 author : ""
-tags : "springboot"
+tags : "SpringBoot"
 article_header:
   type: overlay
   theme: dark

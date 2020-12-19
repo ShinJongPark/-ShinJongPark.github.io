@@ -1,6 +1,6 @@
 ---
 title: "[MacOS] backquote(`) 설정하기"
-tag: "etc"
+tag: "Etc"
 author : ""
 article_header:
   type: overlay

@@ -1,6 +1,6 @@
 ---
 title: "[Spring] DI 와 IoC Container"
-tag: "Spring"
+tag: "SpringBoot"
 author : ""
 article_header:
   type: overlay
