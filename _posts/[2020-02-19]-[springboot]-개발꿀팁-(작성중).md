@@ -25,6 +25,8 @@ tags: "springboot"
 Spring.devtools.livereload.enabled=true
 ```
 
+Eclipse 인경우 Project - Build Automatically 체크.
+
 <br>
 
 <br>
