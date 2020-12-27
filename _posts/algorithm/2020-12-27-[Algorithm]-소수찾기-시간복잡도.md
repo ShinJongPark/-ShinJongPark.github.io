@@ -23,6 +23,8 @@ article_header:
 
 <br>
 
+## 구현 방법
+
 ### 일반적인 방법
 
 > 가장 일반적인 방법이다.
@@ -128,7 +130,7 @@ public static void eratosthenes() {
 
 <br>
 
-### 각 방법의 시간복잡도 비교
+## 각 방법의 시간복잡도 비교
 
 > 숫자는 **10,000** 부터 **100,000,000 (1억)** 까지 10배씩 곱한 숫자를 대입하여 시간복잡도를 비교한다.
 >
@@ -138,29 +140,29 @@ public static void eratosthenes() {
 >
 > print는 생략하였다.
 
-#### > 10,000 ( 1만 )
+### > 10,000 ( 1만 )
 
 ![image](https://user-images.githubusercontent.com/46040293/103174490-f7417d00-48a5-11eb-9156-4703da53d955.png)
 
-#### > 100,000 ( 10만 )
+### > 100,000 ( 10만 )
 
 ![image](https://user-images.githubusercontent.com/46040293/103174402-2b686e00-48a5-11eb-8ae1-18a961f49f00.png)
 
-#### > 1,000,000 ( 100만 )
+### > 1,000,000 ( 100만 )
 
 ![image](https://user-images.githubusercontent.com/46040293/103174411-41762e80-48a5-11eb-95ff-635558e9ea11.png)
 
-#### > 10,000,000 ( 1000만 )
+### > 10,000,000 ( 1000만 )
 
 ![image](https://user-images.githubusercontent.com/46040293/103174426-623e8400-48a5-11eb-9d95-28f109d9e952.png)
 
-#### > 100,000,000 ( 1억 )
+### > 100,000,000 ( 1억 )
 
 ![image](https://user-images.githubusercontent.com/46040293/103174473-ccefbf80-48a5-11eb-9431-877804bb7291.png)
 
 <br>
 
-### 결론
+## 결론
 
 >1) 1만 단위에서는 차이가 거의 없으나 숫자가 커질 수 록 일반적인 방법과 **에라토스테네스 체의 방법** 차이가 커짐을 알 수 있었다.
 >
