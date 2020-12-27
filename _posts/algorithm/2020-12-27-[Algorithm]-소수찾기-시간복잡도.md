@@ -55,13 +55,15 @@ int[] nums = new int[LAST_NUM+1];
 for(int i=2; i<=LAST_NUM; i++) {
   nums[i] = i;								// 각 위치에 숫자를 채워넣고,
 }
-for(int i=2; i<=LAST_NUM; i++) {
+for(int i=2; i*i<=LAST_NUM; i++) {
   if(nums[i] == 0) continue; 	// 이미 체크된 수의 배수는 확인하지 않음. 
-  for(int j = i+i; j<=LAST_NUM; j+=i) 
+  for(int j = i*i; j<=LAST_NUM; j+=i) 
     nums[j] = 0;							// i를 제외한 i의 배수들은 0으로 체크 
 }
 for(int i=2; i<=LAST_NUM; i++) {
-  if(nums[i] != 0) System.out.print(nums[i]+" ");
+  if(nums[i] != 0) {
+    System.out.print(nums[i]+" ");
+  }	
 }
 ```
 
@@ -117,7 +119,7 @@ public static void eratosthenes() {
   int i, j;
   for (i = 2; i*i <= LAST_NUM; i++)
     if (isPrime(i))
-      for (j = i * i; j <= LAST_NUM; j += i)
+      for (j = i*i; j <= LAST_NUM; j += i)
         setComposite(j);
 }
 ```
