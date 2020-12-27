@@ -2,7 +2,7 @@
 layout : article
 title : "[알고리즘] 배열회전, Rotation of Array in Java"
 author : ""
-tags : "algorithm"
+tags : "Algorithm"
 article_header:
   type: overlay
   theme: dark

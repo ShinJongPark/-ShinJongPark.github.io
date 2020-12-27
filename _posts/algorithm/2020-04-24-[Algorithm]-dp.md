@@ -1,6 +1,6 @@
 ---
 title: "[알고리즘] 동적계획법(DP, Dynamic Programming )"
-tag: "algorithm"
+tag: "Algorithm"
 author : ""
 article_header:
   type: overlay
