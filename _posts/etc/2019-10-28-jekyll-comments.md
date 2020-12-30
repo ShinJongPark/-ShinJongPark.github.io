@@ -1,6 +1,6 @@
 ---
 title : "[ jekyll ] 포스트 댓글 추가 ( disqus )"
-tag : "etc"
+tag : "Etc"
 author : ""
 article_header:
   type: overlay
