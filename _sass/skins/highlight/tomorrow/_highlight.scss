@@ -6,7 +6,7 @@ pre.lineno {
   color: $highlight-comment !important;
 }
 .highlight > pre {
-  color: $highlight-foreground;
+  color: #f4f4f4;
   background-color: $highlight-background !important;
   .c   { color: $highlight-comment; } /* Comment */
   .err { color: $highlight-red; } /* Error */
@@ -36,7 +36,7 @@ pre.lineno {
   .m   { color: $highlight-orange; } /* Literal.Number */
   .s   { color: $highlight-green; } /* Literal.String */
   .na  { color: $highlight-blue; } /* Name.Attribute */
-  .nb  { color: $highlight-foreground; } /* Name.Builtin */
+  .nb  { color: #f4f4f4; } /* Name.Builtin */
   .nc  { color: $highlight-yellow; } /* Name.Class */
   .no  { color: $highlight-red; } /* Name.Constant */
   .nd  { color: $highlight-aqua; } /* Name.Decorator */
