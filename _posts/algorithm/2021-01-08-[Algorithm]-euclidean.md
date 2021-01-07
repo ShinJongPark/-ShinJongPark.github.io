@@ -2,7 +2,7 @@
 layout : article
 title : "유클리드 호제법(Euclidean Algorithm)이란? Java 구현"
 author : ""
-tags : "Java"
+tags : "Algorithm"
 article_header:
   type: overlay
   theme: dark
@@ -19,7 +19,7 @@ article_header:
 <br/>
 <br/>
 
-## ㅣ. 유클리드 호제법(Euclidean algorithm)이란?
+## l. 유클리드 호제법(Euclidean algorithm)이란?
 
 > 두 수(자연수)의 **최대공약수**를 구하는 알고리즘의 하나이며, 기원전 300년경에 만들어진 가장 오래된 알고리즘으로 알려져 있다.
 >
@@ -35,7 +35,7 @@ article_header:
 
 <br>
 
-### ll. 구하는 방법
+## ll. 구하는 방법
 
 > 유클리드 호제법은 큰 값을 작은 값으로 나머지를 구하며, 
 >
@@ -57,7 +57,7 @@ article_header:
 
 <br>
 
-### lll. 증명
+## lll. 증명
 
 >다음은 귀류법을 이용하여 증명한다.
 >
@@ -142,7 +142,7 @@ article_header:
 
 <br>
 
-### llll. Java 구현
+## llll. Java 구현
 
 > ```java
 > class Solution {
