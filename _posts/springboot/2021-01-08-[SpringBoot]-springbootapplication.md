@@ -1,5 +1,5 @@
 ---
-title: "[Spring] DI 와 IoC Container"
+title: "[SpringBoot] ComponentScan, EnableAutoConfiguration"
 tag: "SpringBoot"
 author : ""
 article_header:
@@ -37,7 +37,7 @@ article_header:
 
 ## @SpringBootApplication 어노테이션
 
-> `@SpringBootApplication` 는 이 클래스가 스프링 부트로 만든 애플리케이션의 시작 클래스임을 의미하며, 웹 애플리케이션에서 주로 사용하는 `@SpringBootConfiguration`, `@ComponenetScan` , `@EnableAutoConfiguration`을 기본적으로 포함하고 있다.
+> `@SpringBootApplication` 는 이 클래스가 스프링 부트로 만든 애플리케이션의 시작 클래스임을 의미하며, 웹 애플리케이션에서 주로 사용하는 `@SpringBootConfiguration`, `@ComponentScan` , `@EnableAutoConfiguration`을 기본적으로 포함하고 있다.
 >
 > ```java
 > @Target(ElementType.TYPE)
@@ -63,7 +63,7 @@ article_header:
 >
 > <br>
 >
-> ### @ComponenetScan
+> ### @ComponentScan
 >
 > 스프링에서 클래스 위에 @RestContoller를 설정했다 하더라도 XML 설정 파일에`<context:component-scan>`을 설정하지 않으면 컨테이너가 컨트롤러를 빈으로 등록하지 않는다.
 >
@@ -71,7 +71,7 @@ article_header:
 >
 > <br>
 >
-> @ComponenetScan을 설정하면 해당 패키지에 속해있는 @Component 어노테이션을 가진 클래스를 Bean으로 등록한다.
+> @ComponentScan을 설정하면 해당 패키지에 속해있는 @Component 어노테이션을 가진 클래스를 Bean으로 등록한다.
 >
 > @Configuration, @Repository, @Service, @RestController 등의 어노테이션이 붙은 클래스 객체를 메모리에 올리는 역할을 한다.
 >
