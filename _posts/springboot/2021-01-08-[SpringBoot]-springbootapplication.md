@@ -1,5 +1,5 @@
 ---
-title: "[SpringBoot] ComponentScan, EnableAutoConfiguration"
+title: "[SpringBoot] EnableAutoConfiguration, ComponentScan "
 tag: "SpringBoot"
 author : ""
 article_header:
@@ -29,7 +29,9 @@ article_header:
 >
 > 따라서, 기본적으로 제공되는 메인 클래스를 실행하면 내장 톰캣이 구동되어 웹 어플리케이션을 실행시킬 수 있다. (원하면 일반 자바 애플리케이션으로 실행시킬 수 도 있다.)
 >
-> 이번에는 @SpringBootApplication의 역할을 기술하고자 한다.
+> 스프링 부트는 기본적인 기능의 class들을 빈으로 **자동설정**하여 사용자가 아무런 설정 없이도 실행할 수 있게 한다.
+>
+> 어떻게 **자동설정**이 구현되어 있을지 알아보고자 한다.
 
 <br>
 
@@ -63,9 +65,21 @@ article_header:
 >
 > <br>
 >
+> ### @EnableAutoConfiguration
+>
+> 스프링 부트의 `자동설정` 관련 어노테이션이다.
+>
+> `자동설정`은 애플리케이션 운용에 필요한 빈들을 초기화하는 기능을 제공한다.
+>
+> `spring-boot-autoconfigure-x.x.x.RELEASE.jar` 파일에 포함되어 있으며, META-INF 폴더에 `spring.factories` 파일이 있는데, 열어보면 수많은 클래스들이 빈 설정 파일로서 `@Configuration`을 가지고 있다.
+>
+> 따라서, 메인 클래스를 실행하면 `@EnableAutoConfiguration`에 의해 수많은 `설정`들이 조건에 따라 Bean을 등록한다.
+>
+> <br>
+>
 > ### @ComponentScan
 >
-> 스프링에서 클래스 위에 @RestContoller를 설정했다 하더라도 XML 설정 파일에`<context:component-scan>`을 설정하지 않으면 컨테이너가 컨트롤러를 빈으로 등록하지 않는다.
+> 스프링에 의하면 클래스 위에 @Contoller를 설정했다 하더라도 XML 설정 파일에`<context:component-scan>`을 설정하지 않으면 컨테이너가 컨트롤러를 빈으로 등록하지 않는다.
 >
 > 스프링 부트에서는 컴포넌트 스캔을 자동으로 처리되고 있다.
 >
@@ -104,23 +118,13 @@ article_header:
 > @ComponentScan(excludeFilters = { @Filter(type = FilterType.CUSTOM, classes = TypeExcludeFilter.class),
 > 		@Filter(type = FilterType.CUSTOM, classes = AutoConfigurationExcludeFilter.class) })
 > public @interface SpringBootApplication {
->   /*
->   */
+> /*
+> */
 > }
 > 
 > ```
 >
 > 위의 `@ComponentScan`은  `excludeFilters`을 사용하여  `TypeExcludeFilter` 와 `AutoConfigurationExcludeFilter` 를 제외하고 나머지 객체들을 스캔해서 초기화하도록 설정한 것이다.
->
-> <br>
->
-> ### @EnableAutoConfiguration
->
-> 스프링 부트의 `자동설정` 관련 어노테이션이다.
->
-> `spring-boot-autoconfigure-x.x.x.RELEASE.jar` 파일에 포함되어 있으며, META-INF 폴더에 `spring.factories` 파일이 있는데, 열어보면 수많은 클래스들이 빈 설정 파일로서 `@Configuration`을 가지고 있다.
->
-> 따라서, 메인 클래스를 실행하면 `@EnableAutoConfiguration`에 의해 수많은 `설정`들이 조건에 따라 Bean을 등록한다.
 >
 > <br>
 >
