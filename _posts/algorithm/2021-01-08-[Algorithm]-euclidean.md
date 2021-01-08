@@ -175,7 +175,9 @@ article_header:
 
 
 
-> by namu wiki
+> **Reference**
+>
+> - namu wiki
 
 <br>
 
