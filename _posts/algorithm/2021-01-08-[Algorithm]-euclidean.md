@@ -156,7 +156,7 @@ article_header:
 >         int A = Math.max(a,b);
 >         int B = Math.min(a,b);
 >         int R = 0;
->         while(R > 0){
+>         while(B > 0){
 >             R = A % B;
 >             A = B;
 >             B = R;
